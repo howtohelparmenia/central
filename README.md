@@ -32,6 +32,8 @@ https://armenianwoundedheroes.com/
 
 Write about what's really going on on social networks. Educate as many people as possible.
 
+Help update and maintain this page. Having more information here will make it easier for others to start helping.
+
 **Reminder:** do not share any information or photos that reveal confidential military details.
 
 ## Help with Voice
@@ -47,9 +49,15 @@ https://petitions.whitehouse.gov/petition/condemn-aggression-turkey-and-azerbaij
 March to Justice Petition - Condemn the Aggression of Turkey and Azerbaijan Against Artsakh, Armenia  
 https://marchtojustice.org/condemn-azerbaijan/issue-form/0/0
 
-## Help with Knowledge
+## Help with Knowledge and Skills
 
-Ideas welcome, drop a line
+### Developers
+
+- Get in touch with charitable organizations and help them with whatever you can do. For example if you have knowledge in webdev, offer to get in touch with their tech team and see if there are things where they can use you.
+
+### Creatives
+
+- Design infographics about Armenia that can be shared on social media. Focus on a few key pieces of information, make them easy to digest and interesting to read. Include sources at the bottom if relevant.
 
 ## Similar Pages
 
