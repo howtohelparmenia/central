@@ -63,3 +63,7 @@ https://marchtojustice.org/condemn-azerbaijan/issue-form/0/0
 
 Help Armenians  
 https://helparmenians.carrd.co/
+
+***
+
+This repository is run by [Aram Boyajyan](https://github.com/aramboyajyan).
