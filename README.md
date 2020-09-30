@@ -57,7 +57,7 @@ https://marchtojustice.org/condemn-azerbaijan/issue-form/0/0
 
 ### Creatives
 
-- Design infographics about Armenia that can be shared on social media. Focus on a few key pieces of information, make them easy to digest and interesting to read. Include sources at the bottom if relevant.
+- Design infographics about Armenia that can be shared on social media. Focus on a few key pieces of information, make them easy to digest and interesting to read. Include sources at the bottom if relevant. Read [How to Create an Infographic from Scratch](https://www.reddit.com/r/Infographics/comments/5v4lxy/how_to_create_an_infographic_from_scratch_meta/) and check out [/r/infographics](https://www.reddit.com/r/infographics/), [/r/coolguides](https://www.reddit.com/r/coolguides/) and [/r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/) for examples and inspiration.
 
 ## Similar Pages
 
