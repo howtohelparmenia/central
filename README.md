@@ -3,7 +3,7 @@
 Collection of resources for sending send help and doing something useful for Armenia.  
 Website is in the works. Have an idea? Drop a line to howtohelparmenia at gmail.com.
 
-Thanks for visiting.
+Thanks for visiting. Share the link to this page so others can contribute with their ideas.
 
 ## Help with Money
 
@@ -51,13 +51,37 @@ https://marchtojustice.org/condemn-azerbaijan/issue-form/0/0
 
 ## Help with Knowledge and Skills
 
-### Developers
+### Software Developers
 
-- Get in touch with charitable organizations and help them with whatever you can do. For example if you have knowledge in webdev, offer to get in touch with their tech team and see if there are things where they can use you.
+In short:
+- Help existing websites of charitable organizations and public news outlets
+- Act as a volunteering consultant or additional member of their team
+- Act on your own to solve bugs, security holes and report everything
 
 ### Creatives
 
-- Design infographics about Armenia that can be shared on social media. Focus on a few key pieces of information, make them easy to digest and interesting to read. Include sources at the bottom if relevant. Read [How to Create an Infographic from Scratch](https://www.reddit.com/r/Infographics/comments/5v4lxy/how_to_create_an_infographic_from_scratch_meta/) and check out [/r/infographics](https://www.reddit.com/r/infographics/), [/r/coolguides](https://www.reddit.com/r/coolguides/) and [/r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/) for examples and inspiration.
+In short:
+- Design infographics
+- Design banners for the web
+- Design posters that can be printed
+
+Notes:
+- Focus on a few key pieces of information
+- Make things easy to digest and interesting to read
+- Include sources (banners & infographics)
+
+Read [How to Create an Infographic from Scratch](https://www.reddit.com/r/Infographics/comments/5v4lxy/how_to_create_an_infographic_from_scratch_meta/) and check out [/r/infographics](https://www.reddit.com/r/infographics/), [/r/coolguides](https://www.reddit.com/r/coolguides/) and [/r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/) for examples and inspiration.
+
+### Polyglots
+
+- Translate news and messages into other languages and share them on social media
+- Proof read messages in any of the language(s) you are profficient with and help news outlets
+
+### Everyone Else
+
+- Share official messages on social media
+- Promote facts and knowledge, not 
+- Get in touch with news outlets and offer them help in running the site or managing something for them
 
 ## Similar Pages
 
